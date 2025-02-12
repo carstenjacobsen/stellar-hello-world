@@ -15,7 +15,7 @@ fn test() {
         vec![
             &env,
             String::from_str(&env, "Hello"),
-            String::from_str(&env, "Dev1"),
+            String::from_str(&env, "Dev"),
         ]
     );
 }
